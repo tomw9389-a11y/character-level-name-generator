@@ -37,10 +37,10 @@ python -m src.name_generator --prefix "al" --samples 10
 pytest -q
 ```
 
-## Portfolio extension ideas
+## Extension ideas
 
 Add an evaluation script, a web UI, experiment tracking, a larger curated dataset, and a model-comparison notebook for GRU vs LSTM.
 
 ## Attribution
 
-Inspired by the App Ideas repository's “Name Generation using RNNs” project specification. The implementation in this repository is independently structured and extended for portfolio use.
+Inspired by the App Ideas repository's “Name Generation using RNNs” project specification.
