@@ -1,0 +1,12 @@
+Example run:
+python -m src.name_generator --prefix al --samples 8
+
+Generated examples from the trained sample model:
+alon
+alea
+alia
+alia
+ala
+alia
+ala
+alia
